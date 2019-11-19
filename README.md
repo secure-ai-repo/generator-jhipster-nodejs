@@ -150,8 +150,16 @@ Thanks goes to these wonderful people:
 
 # Special Thanks
 
-<div align="center">
-		<a href="www.jetbrains.com/?from=generator-jhipster-nodejs"><img src="https://raw.githubusercontent.com/gpinolo/generator-jhipster-nodejs/feature/keycloack/jetbrains.png"></a>
+<div align="left">
+		<a href="https://www.jetbrains.com/?from=generator-jhipster-nodejs">
+		  <img width="80" height="100" src="https://raw.githubusercontent.com/gpinolo/generator-jhipster-nodejs/feature/keycloack/jetbrains.png">
+		</a>
+		<a href="https://code.visualstudio.com">
+		  <img width="80" height="100" src="https://raw.githubusercontent.com/gpinolo/generator-jhipster-nodejs/feature/keycloack/visualstudio-code.png">
+		</a>
+		<a href="https://www.jhipster.tech">
+		  <img width="80" height="100" src="https://raw.githubusercontent.com/gpinolo/generator-jhipster-nodejs/feature/keycloack/jhipster-logo.png">
+		</a>
 </div>
 
 # License
